@@ -5,6 +5,8 @@ h1 - É a um tipo de Titulo
 p - É para escrever um paragrafo
 hr - cria uma linha divisória na horizontal como no curriculo para separar o pessoal, objetivo e experiência.
 br - usado para quebrar linha nos paragrafos.
+<var> calculo matematico </var>
+img - add imagem 
 
 comandos Git
 caso já esteja criado e conectado e precise apenas atualizar é só fazer 
